@@ -3,3 +3,6 @@
 3. c++
 4. podmínky
 5. cykly
+6. pygame
+Kubíkovi nechutná zeleninka
+
