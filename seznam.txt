@@ -1,8 +1,8 @@
 1. Linux
 2. Python
-3. c++
+3. c+-+
 4. podmínky
 5. cykly
 6. pygame
-Kubíkovi nechutná zeleninka
-
+Kubíkovi (ne)chutná zeleninka
+165cm
