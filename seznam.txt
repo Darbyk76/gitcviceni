@@ -1,3 +1,5 @@
 1. Linux
 2. Python
 3. c++
+4. podmínky
+5. cykly
